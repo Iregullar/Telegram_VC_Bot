@@ -1,4 +1,4 @@
-Pillow
+Pillo
 pytgcalls
 ffmpeg-python
 python-arq
